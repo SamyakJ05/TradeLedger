@@ -1,0 +1,6 @@
+{
+  "name": "Stock Trading Ledger",
+  "description": "Daily trading journal and ledger with strategy tracking, capital and P&L analytics, screenshot uploads, and automated weekly, monthly, and yearly performance calculations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
